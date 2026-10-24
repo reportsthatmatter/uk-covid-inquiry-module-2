@@ -1,0 +1,9 @@
+{
+  "name": "uk-covid-inquiry-module-2",
+  "private": true,
+  "type": "module",
+  "description": "Source archive and ingestion definition for: UK Covid-19 Inquiry, Modules 2, 2A, 2B, 2C: Core decision-making and political governance",
+  "dependencies": {
+    "@rtm/ingest": "github:reportsthatmatter/ingest#v0.28.0"
+  }
+}

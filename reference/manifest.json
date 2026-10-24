@@ -1,0 +1,15 @@
+{
+  "report": "uk-covid-inquiry-module-2",
+  "set": "held-out",
+  "edition": "Volume I's PDF's own structure tree (tagged PDF, InDesign: H1-H5, P, Note, LI/Lbl, role-mapped), February 2026 issue with post-publication amends",
+  "licence": "Crown copyright, reused under the Open Government Licence v3.0 (https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).",
+  "fetched": "2026-10-24",
+  "sources": [
+    {
+      "path": "reference/raw/volume-1.html",
+      "url": "https://covid19.public-inquiry.uk/documents/reports/modules-2-2a-2b-2c-core-decision-making-and-political-governance-volume-i",
+      "sha256": "2c956f5366315f39e810a026fcad7df75397bc6b4d4da3e404118e9b5f718a67",
+      "bytes": 2322566
+    }
+  ]
+}
