@@ -5,6 +5,7 @@ published_at: "20 November 2025"
 source_url: "https://covid19.public-inquiry.uk/wp-content/uploads/2026/02/12093057/M2-Volume-1-with-post-publication-amends-Feb-2026.pdf"
 pages: 460
 footnotes: 3236
+corrections: 1
 ---
 
 UK Covid-19 Inquiry
@@ -2470,11 +2471,7 @@ The impact of the notion of behavioural fatigue on the timing of the implementat
 
 ##### The trigger for moving from 'contain' to 'delay'
 
-3.82.
-
-#### The Coronavirus: Action Plan
-
-stated:
+3.82. The Coronavirus: Action Plan stated:
 
 > " The decision to step up the response from Contain to Delay and then Mitigate will be taken on advice from the UK's [Chief Medical Officers], taking into account the degree of sustained transmission and evident failure of measures in other countries to reduce spread."[^157]
 
@@ -2482,7 +2479,9 @@ The UK Influenza Pandemic Preparedness Strategy 2011 contained a similar trigger
 
 3.83. Although the Coronavirus: Action Plan placed reliance on there being some evidence of sustained transmission before the trigger for the response to move to the delay phase would be met, it did not quantify the extent of transmission that was required. While this was understandable, given the public-facing nature of the Coronavirus: Action Plan, the four governments (with input from their Chief Medical Officers) should have ensured that there was an internal plan for the response which set out a more specific test that the Chief Medical Officers would apply to determine when decision-makers should be advised that this point in the response had been reached.
 
-The Coronavirus: Action Plan 3.84. As outlined in Chapter 2: The emergence of Covid-19, in this volume, the Coronavirus: Action Plan was commissioned by Mr Hancock on 10 February 2020 as "a coronavirus version" of the UK Influenza Pandemic Preparedness Strategy 2011.[^159]
+#### The Coronavirus: Action Plan
+
+3.84. As outlined in Chapter 2: The emergence of Covid-19, in this volume, the Coronavirus: Action Plan was commissioned by Mr Hancock on 10 February 2020 as "a coronavirus version" of the UK Influenza Pandemic Preparedness Strategy 2011.[^159]
 
 %%page 117%%
 
@@ -5254,7 +5253,9 @@ Packages A and B, or Package C, would "fail to bend the curve, leaving R above 1
 
 Gatherings of more than 50 people were, however, banned and secondary schools and universities switched to remote learning.[^228]
 
-6.94. In a study that Imperial College London undertook comparing the first wave of the pandemic in the UK, Denmark and Sweden, it found that Sweden achieved almost the same level of reduction in contact rates (as reflected in workplace mobility changes and the proportion of people avoiding public spaces) as many other European countries. These included its neighbour, Denmark, which instituted a suite of mandatory policies. However, Swedish control measures took longer to reduce R below 1 than did the measures adopted by both the UK and Denmark, and achieved a lower overall reduction in R. 6.95. By contrast, Professor Sunetra Gupta (Professor of Theoretical Epidemiology) and Professor Carl Heneghan (Professor of Evidence-Based Medicine), both at the University of Oxford, rejected the concept of a national lockdown.[^229] They proposed an alternative approach: "focused protection" of those who were most vulnerable to severe disease and death, while allowing the unrestricted spread of infection in the non-vulnerable population.[^230] This had parallels with Mr Johnson's interest in population segmentation. Professor Gupta highlighted the social, economic, psychological and developmental harms caused by lockdowns. She asserted that focused protection was "the only humanitarian route out of the crisis".[^231] Professor Heneghan argued that the UK government's response to the crisis was:
+6.94. In a study that Imperial College London undertook comparing the first wave of the pandemic in the UK, Denmark and Sweden, it found that Sweden achieved almost the same level of reduction in contact rates (as reflected in workplace mobility changes and the proportion of people avoiding public spaces) as many other European countries. These included its neighbour, Denmark, which instituted a suite of mandatory policies. However, Swedish control measures took longer to reduce R below 1 than did the measures adopted by both the UK and Denmark, and achieved a lower overall reduction in R.
+
+6.95. By contrast, Professor Sunetra Gupta (Professor of Theoretical Epidemiology) and Professor Carl Heneghan (Professor of Evidence-Based Medicine), both at the University of Oxford, rejected the concept of a national lockdown.[^229] They proposed an alternative approach: "focused protection" of those who were most vulnerable to severe disease and death, while allowing the unrestricted spread of infection in the non-vulnerable population.[^230] This had parallels with Mr Johnson's interest in population segmentation. Professor Gupta highlighted the social, economic, psychological and developmental harms caused by lockdowns. She asserted that focused protection was "the only humanitarian route out of the crisis".[^231] Professor Heneghan argued that the UK government's response to the crisis was:
 
 > " out of proportion to the threat … underpinned by a lack of understanding of the data, the role of community pathogens and an overreliance on predictive modelling".[^232]
 

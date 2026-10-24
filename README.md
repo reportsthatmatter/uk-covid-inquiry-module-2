@@ -10,7 +10,7 @@ Volume I goes first because it carries the Introduction and the Executive summar
 
 ## Source
 
-`archive/covid-inquiry-module-2-vol1-hc1436-i-amended-2026-02.pdf`: Volume I with post-publication amends (Version 1.1, February 2026), as linked from the Inquiry's report page (https://covid19.public-inquiry.uk/documents/module-2-full-report/). Crown copyright 2025, licensed under the Open Government Licence v3.0 (stated on the PDF's p.4, the imprint). See `datapackage.json`. The Inquiry's site refuses requests without a browser User-Agent.
+`archive/covid-inquiry-module-2-vol1-hc1436-i-amended-2026-02.pdf`: Volume I with post-publication amends (Version 1.1, February 2026), as linked from the Inquiry's report page (https://covid19.public-inquiry.uk/documents/module-2-full-report/). Crown copyright 2025, licensed under the Open Government Licence v3.0 (stated on the imprint, PDF p.3). See `datapackage.json`. The Inquiry's site refuses requests without a browser User-Agent.
 
 ## Materials
 
@@ -36,9 +36,9 @@ Sourcing checklist:
 5. Wikisource: not checked (an official HTML edition and a tagged PDF already cover every need).
 6. Court documents: not applicable.
 7. US congressional: not applicable.
-8. Originals: the Inquiry (contact@covid19.public-inquiry.uk, printed on p.4).
+8. Originals: the Inquiry (contact@covid19.public-inquiry.uk, printed on the imprint, PDF p.3).
 
-Versions: Volume I was re-issued in February 2026 "with post-publication amends". A word 6-gram comparison of the two PDFs (205,864 and 208,283 words) finds two changes to the report's words, both listed on the Correction Slip the amended PDF adds as its p.5 (dated 16 January 2026): Chapter 2, paragraph 41 (Ms Sturgeon's briefing of 24 January 2020 came from "the Scottish Government's Health Protection Policy Team", not Health Protection Scotland, and "further advice" becomes "advice") and Chapter 3, paragraph 16 (Mr Pengelly's letter to the trusts is dated 26 March 2020, not 1 March). Every other difference is figure text: the amended PDF adds an OCR text layer over about 30 figure images (message screenshots, a whiteboard, news graphics), all in one face (GdPictureBackupFont), much of it unreadable ("oor ae nhs helen wey", PDF p.177). The ingest drops that layer by its face. The amended PDF is four pages shorter.
+Versions: Volume I was re-issued in February 2026 "with post-publication amends". A word 6-gram comparison of the two PDFs (205,864 and 208,283 words) finds two changes to the report's words, both listed on the Correction Slip the amended PDF adds as its p.4 (dated 16 January 2026): Chapter 2, paragraph 41 (Ms Sturgeon's briefing of 24 January 2020 came from "the Scottish Government's Health Protection Policy Team", not Health Protection Scotland, and "further advice" becomes "advice") and Chapter 3, paragraph 16 (Mr Pengelly's letter to the trusts is dated 26 March 2020, not 1 March). Every other difference is figure text: the amended PDF adds an OCR text layer over about 30 figure images (message screenshots, a whiteboard, news graphics), all in one face (GdPictureBackupFont), much of it unreadable ("oor ae nhs helen wey", PDF p.177). The ingest drops that layer by its face. The amended PDF is four pages shorter.
 
 Layout notes: running heads at the top of each page ("Chapter 3: The first 12 days of March 2020" on rectos, the volume title on versos); numbered paragraphs ("3.98.") with the number at the margin and the text hanging; indented quotations; figures with a caption ("Figure 4: …") and a "Source: …" line; notes at the foot, number and text on one line ("196 INQ000398439_0001 para 4", PDF p.141), numbered afresh in each chapter.
 

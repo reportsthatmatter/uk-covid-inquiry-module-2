@@ -1,6 +1,6 @@
 # Fidelity review — UK Covid-19 Inquiry, Modules 2, 2A, 2B, 2C: Core decision-making and political governance, Volume I
 
-Pages: 460  ·  Footnotes: 3236  ·  Auto-fixes applied: 45  ·  Human corrections: 0
+Pages: 460  ·  Footnotes: 3236  ·  Auto-fixes applied: 45  ·  Human corrections: 1
 
 **75 open**, 0 reviewed and judged correct.
 
