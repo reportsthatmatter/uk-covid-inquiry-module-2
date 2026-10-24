@@ -48,4 +48,4 @@ Text of the report: Crown copyright 2025, Open Government Licence v3.0. Our mark
 
 ## Build
 
-`ingest.ts` declares how the report is turned into Markdown. Rebuild from the site repo with `pnpm ingest run uk-covid-inquiry-module-2`. `fidelity.md` lists the words the pipeline flagged for review.
+`ingest.ts` declares how the report is turned into Markdown. Rebuild from the site repo with `pnpm ingest run uk-covid-inquiry-module-2`. `fidelity.md` lists the words the pipeline flagged for review. It needs `@rtm/ingest` with `typographicHeadings({ labelWraps })` and the restart scan for `sequencedNoteOpenings` with `footnoteRestarts` (ingest branch `covidm2-passes-1024`; not yet released).
