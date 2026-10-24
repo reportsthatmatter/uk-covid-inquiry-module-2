@@ -1,0 +1,215 @@
+report: uk-covid-inquiry-module-2
+adjudicated: 2026-10-24
+by: "Claude (Opus 5.5)"
+method: "Held-out reference (tagged-PDF blocks, reference/blocks.jsonl): 30 page breaks drawn by `pnpm score --adjudicate-draft` (seeded; random and disagreement strata). Question: does a new block (numbered paragraph, heading, quotation, list item, unnumbered paragraph) start at the break, or does the block run on. Decided from the text where a sentence visibly runs on or a label, heading or quotation opens the page; otherwise from the Inquiry's HTML edition (reference/raw/volume-1.html), whose <p>/<li> blocks match the PDF's; three (pp.43, 344, 384) from the rendered page images. In this report an unnumbered flush paragraph after a quotation is a block of its own (the PDF's spacing and the HTML agree). Adjudicated after ingest#83."
+breaks:
+  - page: 2
+    prev: "November 2025"
+    next: "UK"
+    verdict: split
+    stratum: random
+    image: false
+    note: "cover, then the title page"
+  - page: 19
+    prev: "20 November 2025"
+    next: "Voices"
+    verdict: split
+    stratum: random
+    image: false
+    note: "the Introduction ends; \"Voices\" heads the next part"
+  - page: 20
+    prev: "Voices"
+    next: "“ Five days after Daddy went into hospital we had to get the"
+    verdict: split
+    stratum: random
+    image: false
+    note: "\"Voices\" heading, then a quotation"
+  - page: 27
+    prev: "a four-week lockdown from 5 November 2020. "
+    next: "Mr Johnson should have ordered the imposition of a circuit b"
+    verdict: split
+    stratum: disagreement
+    image: false
+    note: "HTML: a new paragraph"
+  - page: 43
+    prev: " R is above 1, an epidemic is still growing. Whenever it is "
+    next: "1.23.  Less commonly, there are references to ‘R ’, which re"
+    verdict: split
+    stratum: random
+    image: true
+    note: "image: the page opens on 1.23"
+  - page: 141
+    prev: "ng (later Sir David Sterling), Head of the Northern Ireland "
+    next: "August 2020, that, at that time, this “would be premature”.1"
+    verdict: join
+    stratum: random
+    image: false
+    note: "mid-sentence (3.97 runs on)"
+  - page: 143
+    prev: "and that containment was “now unlikely to be achievable”.211"
+    next: "It also advised on the possibility of an exit wave if string"
+    verdict: join
+    stratum: disagreement
+    image: false
+    note: "HTML: the same paragraph"
+  - page: 154
+    prev: "ially slow the spread of the virus. However, it noted that: "
+    next: "“ [I]t is not possible to quantify either of these effects. "
+    verdict: split
+    stratum: random
+    image: false
+    note: "a quotation opens after \"noted that:\""
+  - page: 165
+    prev: "subsequent weeks of the pandemic.”386"
+    next: "3.177.  In Northern Ireland, testing also ended on 12 March "
+    verdict: split
+    stratum: random
+    image: false
+    note: "a numbered paragraph"
+  - page: 169
+    prev: "families are going to lose loved ones before their time.”403"
+    next: "Chapter 4: Realisation and lockdown (13 to 23 March 2020)"
+    verdict: split
+    stratum: random
+    image: false
+    note: "the next chapter's title page"
+  - page: 170
+    prev: "f no restrictions were put in place, it would “need 800,000 "
+    next: "beds”. This considerably exceeded the “total capacity of 100"
+    verdict: join
+    stratum: random
+    image: false
+    note: "mid-sentence"
+  - page: 176
+    prev: "d!’”.51 Professor Halpern’s impression, which he relayed to "
+    next: "Mr Hancock later that day, was that “the penny had dropped a"
+    verdict: join
+    stratum: disagreement
+    image: false
+    note: "mid-sentence"
+  - page: 210
+    prev: "the new restrictions should apply across the UK.335"
+    next: "4.136.  Professor Vallance explained that the objective of r"
+    verdict: split
+    stratum: random
+    image: false
+    note: "a numbered paragraph"
+  - page: 231
+    prev: "balancing act that I had to do throughout the pandemic”.482"
+    next: "It is wholly understandable that Mr Johnson should have wres"
+    verdict: split
+    stratum: random
+    image: false
+    note: "HTML: a new paragraph after a quotation"
+  - page: 240
+    prev: "reland Executive on 30 March 2020, when it was agreed that: "
+    next: "“ further work should be undertaken to populate it with info"
+    verdict: split
+    stratum: random
+    image: false
+    note: "a quotation opens after \"agreed that:\""
+  - page: 272
+    prev: "and elimination of any clusters emerging.”315"
+    next: "Ms Sturgeon suggested that she call Professor Sridhar during"
+    verdict: split
+    stratum: random
+    image: false
+    note: "HTML: a new paragraph after a quotation"
+  - page: 285
+    prev: "ions would lead to an increase in the rate of transmission. "
+    next: "Its approach to the relaxation of restrictions centred on fi"
+    verdict: join
+    stratum: disagreement
+    image: false
+    note: "HTML: the same paragraph"
+  - page: 289
+    prev: "d that the effectiveness of the NHS test, trace and isolate "
+    next: "system in reducing transmission depended critically upon sel"
+    verdict: join
+    stratum: random
+    image: false
+    note: "mid-sentence"
+  - page: 321
+    prev: "ndoor leisure, entertainment and personal care services; and"
+    next: "– prohibiting weddings and standalone ceremonies (unless the"
+    verdict: split
+    stratum: disagreement
+    image: false
+    note: "HTML: a new list item"
+  - page: 327
+    prev: "pm briefings and unscheduled Scottish Government briefings. "
+    next: "This meant that if the rules were complex, contradictory and"
+    verdict: join
+    stratum: disagreement
+    image: false
+    note: "HTML: the same paragraph"
+  - page: 337
+    prev: "ing which there would be an impact on non-Covid-19 hospital "
+    next: "“ [W]e wouldn’t just look at the health advice, we would tak"
+    verdict: split
+    stratum: disagreement
+    image: false
+    note: "HTML: a quotation block starts the new page"
+  - page: 339
+    prev: "paper, such was the political tension at that time”.445"
+    next: "Mr Swann did advocate for a further two weeks of restriction"
+    verdict: split
+    stratum: random
+    image: false
+    note: "HTML: a new paragraph after a quotation"
+  - page: 344
+    prev: "immunity.”485"
+    next: "The declaration endorsed the “focused protection” approach t"
+    verdict: split
+    stratum: random
+    image: true
+    note: "image: an unnumbered flush paragraph after a quotation, a block of its own in this report (as the HTML has at 231, 272, 339)"
+  - page: 384
+    prev: "e scale and speed of any relaxation of the restrictions”.234"
+    next: "Noting that the position remained “fragile”, the conclusion "
+    verdict: split
+    stratum: random
+    image: true
+    note: "image: as 344"
+  - page: 400
+    prev: "learned earlier in the pandemic, emphasising that the: "
+    next: "“ ‘earlier, harder, broader’ principles of responding quickl"
+    verdict: split
+    stratum: random
+    image: false
+    note: "a quotation opens after \"that the:\""
+  - page: 402
+    prev: "modelling does not account for the potential impact of [the "
+    next: "Delta variant] (up to 60% increase in transmission), the pos"
+    verdict: join
+    stratum: disagreement
+    image: false
+    note: "mid-sentence inside a quotation"
+  - page: 410
+    prev: "tdoor gatherings at domestic settings, would take effect.112"
+    next: "The Northern Ireland Executive published Building Forward: C"
+    verdict: join
+    stratum: disagreement
+    image: false
+    note: "HTML: the same paragraph"
+  - page: 413
+    prev: "ccination coverage in people aged over 40 was also high and "
+    next: "“this … appeared to have altered the relationship between co"
+    verdict: join
+    stratum: disagreement
+    image: false
+    note: "an inline quotation continues the sentence"
+  - page: 427
+    prev: "received two doses of the vaccine stood between 84% and 88% "
+    next: "vulnerable groups was only introduced in mid-September 2021,"
+    verdict: join
+    stratum: random
+    image: false
+    note: "mid-sentence"
+  - page: 457
+    prev: "in such scenarios."
+    next: "8.190.  Scotland experienced a comparably higher level of ho"
+    verdict: split
+    stratum: random
+    image: false
+    note: "a numbered paragraph"

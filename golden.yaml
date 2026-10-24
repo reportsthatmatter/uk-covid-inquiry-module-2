@@ -1,0 +1,109 @@
+# Golden pages: ground truth for this report, read off the PDF page image and checked by `pnpm ingest verify`.
+# Format and rules: @rtm/ingest src/golden.ts and the site's docs/quality-harness.md ("Golden pages").
+# A page marked xfail is a known pipeline defect: it stays red here, verify stays green, and the bead says why.
+# Printed page = PDF page - 20 in the body. Quotations are indented and italic in the PDF.
+pages:
+  # A chapter's first body page: the blue sub-headings at three sizes, numbered paragraphs, notes 1-2 restarting.
+  - pdf: 37
+    printed: 17
+    verified_by: "Claude (Opus 5.5), 2026-10-24, against the page image"
+    features: [H, F]
+    blocks:
+      - heading: "Introduction"
+        level: 3
+      - paragraph: {start: "1.1. This chapter provides the context", end: "and the key scientific concepts."}
+      - heading: "Key structures"
+        level: 3
+      - heading: "Devolution in the UK"
+        level: 4
+      - paragraph: {start: "1.2. The UK has a complex", end: "and the Northern Ireland Assembly.", notes: [1]}
+      - paragraph: {start: "1.3. The devolved administrations are responsible", end: "laws in relation to health.", notes: [2]}
+      - paragraph: {start: "1.4. In the UK, powers that", end: "government are devolved as follows:"}
+      - list: {start: "In Scotland and Wales, the devolution", end: "Secretary of State for Northern", items: 2}
+    footnotes: [1, 2]
+    markers: [1, 2]
+  # A page that opens mid-paragraph at the hanging indent (the end of 2.31), with two quotations.
+  - pdf: 62
+    printed: 42
+    verified_by: "Claude (Opus 5.5), 2026-10-24, against the page image"
+    features: [ordinary, F]
+    continues_previous: true
+    opens_with: "little but accepted the expert advice"
+    blocks:
+      - paragraph: {start: "2.32. Also on 22 January 2020,", end: "Coordination Centre (Wales), responsible for:", notes: [77]}
+      - quote: {start: "information gathering and keeping Welsh", end: "implications of emergencies in Wales", notes: [78]}
+      - paragraph: {start: "The precautionary SAGE minutes were shared", end: "virus through official government communications.", notes: [79]}
+      - paragraph: {start: "2.33. In Northern Ireland, this period", end: "responsibility for civil contingencies arrangements:"}
+      - quote: {start: "was allocated responsibility for taking", end: "to any Pandemic flu outbreak.", notes: [80]}
+    footnotes: [72, 73, 74, 75, 76, 77, 78, 79, 80]
+  # A chapter's first page after its title page: notes restart at 1, set "1" then a tab; a chart whose labels must not reach the text.
+  - pdf: 113
+    printed: 93
+    verified_by: "Claude (Opus 5.5), 2026-10-24, against the page image"
+    features: [F, figure]
+    xfail: reportsthatmatter-r41s
+    xfail_only: [blocks, must_not_contain]
+    blocks:
+      - heading: "Introduction"
+        level: 3
+      - paragraph: {start: "3.1. By 1 March 2020, it", end: "but this was also limited.", notes: [1, 2]}
+      - paragraph: {start: "3.2. During the first 12 days", end: "– spread around the UK."}
+      - paragraph: {start: "Figure 3: Daily confirmed cases from", end: "March 2020 across the UK"}
+      - paragraph: {start: "Source: UK Health Security Agency Covid-19", end: "covid-19-archive-data-download)"}
+    footnotes: [1, 2]
+    markers: [1, 2]
+    must_not_contain: ["M M M M"]
+  # A sub-heading whose words also open the paragraph above it ("3.82. The Coronavirus: Action Plan stated:").
+  - pdf: 136
+    printed: 116
+    verified_by: "Claude (Opus 5.5), 2026-10-24, against the page image"
+    features: [H, Q]
+    continues_previous: true
+    opens_with: "be overwhelmed, even if the restrictions"
+    blocks:
+      - paragraph: {start: "3.81. On 13 March 2020, in", end: "delay the intervention of restrictions:"}
+      - quote: {start: "There is no strong evidence", end: "where that is indicated epidemiologically.", notes: [156]}
+      - heading: "The trigger for moving from 'contain' to 'delay'"
+        level: 5
+      - paragraph: {start: "3.82. The Coronavirus: Action Plan stated:", end: "The Coronavirus: Action Plan stated:"}
+      - quote: {start: "The decision to step up", end: "other countries to reduce spread.", notes: [157]}
+      - paragraph: {start: "The UK Influenza Pandemic Preparedness Strategy", end: "initial response stage of 'detection'.", notes: [158]}
+      - paragraph: {start: "3.83. Although the Coronavirus: Action Plan", end: "the response had been reached."}
+      - heading: "The Coronavirus: Action Plan"
+        level: 4
+      - paragraph: {start: "3.84. As outlined in Chapter 2:", end: "Influenza Pandemic Preparedness Strategy 2011.", notes: [159]}
+    footnotes: [155, 156, 157, 158, 159]
+  # A figure of message screenshots whose OCR text layer (GdPictureBackupFont, Feb 2026 issue) must not reach the text; quotations inside 3.140.
+  - pdf: 152
+    printed: 132
+    verified_by: "Claude (Opus 5.5), 2026-10-24, against the page image"
+    features: [Q, figure]
+    blocks:
+      - paragraph: {start: "Figure 5: Exchange of messages between", end: "Gove on 11 March 2020"}
+      - paragraph: {start: "Source: Extract from INQ000275436_0003", end: "Source: Extract from INQ000275436_0003"}
+      - paragraph: {start: "3.139. Mr Cummings also sent a", end: "delayed for a further week.", notes: [297, 298]}
+      - paragraph: {start: "3.140. The UK Cabinet met on", end: "2020. Mr Johnson explained that:"}
+      - quote: {start: "[E]pidemiologists were clear that the", end: "when the time was right.", notes: [299]}
+      - paragraph: {start: "Mr Hancock advised the UK Cabinet", end: "advised the UK Cabinet that:"}
+      - quote: {start: "[T]he key symptoms were a", end: "someone was suffering from coronavirus.", notes: [300]}
+      - paragraph: {start: "Mr Hancock's statement was incorrect. As", end: "have Covid-19 and be asymptomatic."}
+      - paragraph: {start: "3.141. The first case of community", end: "(health) incident\". It noted that:", notes: [301, 302]}
+      - quote: {start: "Objectively the demographic characteristics of", end: "levels of impact from Covid-19.", notes: [303]}
+    footnotes: [297, 298, 299, 300, 301, 302, 303]
+    must_not_contain: ["Obv CabOff", "Michael Gove: Indeed"]
+  # 6.95 after a paragraph ending "in R." (one correction), and a page opening mid-paragraph.
+  - pdf: 312
+    printed: 292
+    verified_by: "Claude (Opus 5.5), 2026-10-24, against the page image"
+    features: [ordinary, Q]
+    xfail: reportsthatmatter-jz19
+    xfail_only: [blocks]
+    continues_previous: true
+    opens_with: "that, rather than imposing mandatory measures"
+    blocks:
+      - paragraph: {start: "6.94. In a study that Imperial", end: "a lower overall reduction in R."}
+      - paragraph: {start: "6.95. By contrast, Professor Sunetra Gupta", end: "response to the crisis was:", notes: [229, 230, 231]}
+      - quote: {start: "out of proportion to the", end: "an overreliance on predictive modelling", notes: [232]}
+      - paragraph: {start: "He also said that \"there will", end: "deaths are lower than influenza/pneumonia\".", notes: [233]}
+      - paragraph: {start: "6.96. There was considerable criticism of", end: "case, or not very hard\".", notes: [234, 235]}
+    footnotes: [228, 229, 230, 231, 232, 233, 234]
