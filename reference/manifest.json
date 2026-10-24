@@ -1,0 +1,42 @@
+{
+  "report": "uk-covid-inquiry-module-2",
+  "set": "held-out",
+  "edition": "Volume I's PDF's own structure tree (tagged PDF, InDesign: H1-H5, P, Note, LI/Lbl, role-mapped), February 2026 issue with post-publication amends",
+  "licence": "Crown copyright, reused under the Open Government Licence v3.0 (https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).",
+  "fetched": "2026-10-24",
+  "sources": [
+    {
+      "path": "archive/covid-inquiry-module-2-vol1-hc1436-i-amended-2026-02.pdf",
+      "sha256": "af1ca2d83c5058b47c4ce7e81673b11f87064a5d0c27a85256c7618e65541bae",
+      "bytes": 11917867
+    },
+    {
+      "path": "reference/raw/volume-1.html",
+      "url": "https://covid19.public-inquiry.uk/documents/reports/modules-2-2a-2b-2c-core-decision-making-and-political-governance-volume-i",
+      "sha256": "2c956f5366315f39e810a026fcad7df75397bc6b4d4da3e404118e9b5f718a67",
+      "bytes": 2322566
+    }
+  ],
+  "sources_note": "The reference is derived from the source PDF already in archive/, so no copy of the PDF is kept under reference/raw/.",
+  "blocks": {
+    "path": "reference/blocks.jsonl",
+    "sha256": "d301f688f6ab365fda220b35dc2c71a60c0b2809661edaaa16fbb1f688e4c461",
+    "normaliser": "reportsthatmatter scripts/score/reference.py, adapter tagged, version 2",
+    "built": "2026-10-24",
+    "counts": {
+      "contents": 3,
+      "heading": 174,
+      "list": 14,
+      "note": 3241,
+      "paragraph": 2092,
+      "quote": 585
+    },
+    "markers": 3241,
+    "markers_linked": 3235,
+    "words": 169596
+  },
+  "caveats": [
+    "A new publisher family (the UK Covid-19 Inquiry), so held out: score it, do not tune passes on it.",
+    "The Inquiry's own HTML edition of Volume I (reference/raw/volume-1.html) is cached as a second reference: amended text, numbered paragraphs, h2-h5 headings and per-chapter linked notes, but no page anchors. The Inquiry's site refuses this script's User-Agent (403), so fetch it with --cache from a browser-UA download."
+  ]
+}

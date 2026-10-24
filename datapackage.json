@@ -1,0 +1,45 @@
+{
+  "name": "uk-covid-inquiry-module-2",
+  "title": "UK Covid-19 Inquiry, Modules 2, 2A, 2B, 2C: Core decision-making and political governance",
+  "resources": [
+    {
+      "title": "Volume I: Introduction and key events from January 2020 to May 2022, HC 1436-I, ISBN 978-1-5286-5449-4, Version 1.1 with post-publication amends (February 2026), as published by the UK Covid-19 Inquiry",
+      "path": "archive/covid-inquiry-module-2-vol1-hc1436-i-amended-2026-02.pdf",
+      "format": "pdf",
+      "mediatype": "application/pdf",
+      "bytes": 11917867,
+      "hash": "sha256:af1ca2d83c5058b47c4ce7e81673b11f87064a5d0c27a85256c7618e65541bae",
+      "sources": [
+        {
+          "title": "M2-Volume-1-with-post-publication-amends-Feb-2026.pdf (UK Covid-19 Inquiry)",
+          "web": "https://covid19.public-inquiry.uk/wp-content/uploads/2026/02/12093057/M2-Volume-1-with-post-publication-amends-Feb-2026.pdf"
+        },
+        {
+          "title": "Landing page: Module 2 full report (UK Covid-19 Inquiry)",
+          "web": "https://covid19.public-inquiry.uk/documents/module-2-full-report/"
+        }
+      ]
+    },
+    {
+      "title": "The Inquiry's HTML edition of Volume I (fetched 24 October 2026; amended text), a reference for words, paragraph numbers, headings and notes",
+      "path": "reference/raw/volume-1.html",
+      "format": "html",
+      "mediatype": "text/html",
+      "bytes": 2322566,
+      "hash": "sha256:2c956f5366315f39e810a026fcad7df75397bc6b4d4da3e404118e9b5f718a67",
+      "sources": [
+        {
+          "title": "Modules 2, 2A, 2B, 2C: Core decision-making and political governance, Volume I (HTML)",
+          "web": "https://covid19.public-inquiry.uk/documents/reports/modules-2-2a-2b-2c-core-decision-making-and-political-governance-volume-i"
+        }
+      ]
+    }
+  ],
+  "licenses": [
+    {
+      "name": "OGL-UK-3.0",
+      "title": "Open Government Licence v3.0",
+      "path": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+    }
+  ]
+}

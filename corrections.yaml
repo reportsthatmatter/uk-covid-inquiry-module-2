@@ -1,0 +1,17 @@
+# Human judgements about this document's text, applied deterministically as a
+# final pipeline pass, so re-running reproduces the same output.
+#
+# A correction describes the text; a pass describes how to read the source.
+# If you are writing one to undo something the parser did, you needed a pass
+# or a bug fix instead — see scripts/ingest/README.md. Each one below is a
+# single instance of a parser defect, beaded for the pass that would replace it.
+#
+# Every correction must match exactly once.
+version: 1
+corrections:
+  - id: c-0001
+    where: { volume: 1, printed: 292 }
+    find: "a lower overall reduction in R. 6.95. By contrast"
+    replace: "a lower overall reduction in R.\n\n6.95. By contrast"
+    reason: "6.94 ends 'reduction in R.' (PDF p.312), read as an initial, so 6.95 ran on inside 6.94 within the page's block reading and its id did not exist; numberedOpenings acts only on joins across blocks, not here; checked against the page image"
+    added: 2026-10-24
