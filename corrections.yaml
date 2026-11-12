@@ -15,3 +15,15 @@ corrections:
     replace: "a lower overall reduction in R.\n\n6.95. By contrast"
     reason: "6.94 ends 'reduction in R.' (PDF p.312), read as an initial, so 6.95 ran on inside 6.94 within the page's block reading and its id did not exist; numberedOpenings acts only on joins across blocks, not here; checked against the page image"
     added: 2026-10-24
+  - id: c-0002
+    where: { volume: 2, printed: 150 }
+    find: "is set out in Chapter 6: The second wave, in Volume I. 11.194. The meeting"
+    replace: "is set out in Chapter 6: The second wave, in Volume I.\n\n11.194. The meeting"
+    reason: "11.193 ends 'in Volume I.' (vol. 2 PDF p.160), the 'I.' read as an initial, so 11.194 ran on inside 11.193 and its id did not exist (the same defect as c-0001); checked against the page image and the Inquiry's HTML edition"
+    added: 2026-11-12
+  - id: c-0003
+    where: { volume: 1, printed: 289 }
+    find: "restrictions of pre- determined length"
+    replace: "restrictions of pre-determined length"
+    reason: "6.82: the PDF breaks 'pre-' / 'determined' over a line (vol. 1 PDF p.309); the Inquiry's HTML edition prints 'pre-determined'. The hyphen joiner, which runs after corrections and knows neither form from Volume I alone, left 'pre- determined'; with Volume II's 'predetermined' in the vocabulary it made 'predetermined'. Written whole here, so neither applies"
+    added: 2026-11-12

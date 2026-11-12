@@ -21,6 +21,24 @@
       ]
     },
     {
+      "title": "Volume II: Key themes, lessons and recommendations, HC 1436-II, ISBN 978-1-5286-5449-4, Version 1 (November 2025), accessible PDF as published by the UK Covid-19 Inquiry",
+      "path": "archive/covid-inquiry-module-2-vol2-hc1436-ii-2025-11.pdf",
+      "format": "pdf",
+      "mediatype": "application/pdf",
+      "bytes": 3093017,
+      "hash": "sha256:08ab8adcc5049d470dd48c59cac912f33227b0663f9993a9e5d1d715c550969a",
+      "sources": [
+        {
+          "title": "1435-HH-E03296643_UK-Covid-19-M2-•V2•-Inquiry_Volume-II_Accessible.pdf (UK Covid-19 Inquiry)",
+          "web": "https://covid19.public-inquiry.uk/wp-content/uploads/2025/11/18102920/1435-HH-E03296643_UK-Covid-19-M2-%E2%80%A2V2%E2%80%A2-Inquiry_Volume-II_Accessible.pdf"
+        },
+        {
+          "title": "Landing page: Module 2 full report (UK Covid-19 Inquiry)",
+          "web": "https://covid19.public-inquiry.uk/documents/module-2-full-report/"
+        }
+      ]
+    },
+    {
       "title": "The Inquiry's HTML edition of Volume I (fetched 24 October 2026; amended text), a reference for words, paragraph numbers, headings and notes",
       "path": "reference/raw/volume-1.html",
       "format": "html",
@@ -31,6 +49,20 @@
         {
           "title": "Modules 2, 2A, 2B, 2C: Core decision-making and political governance, Volume I (HTML)",
           "web": "https://covid19.public-inquiry.uk/documents/reports/modules-2-2a-2b-2c-core-decision-making-and-political-governance-volume-i"
+        }
+      ]
+    },
+    {
+      "title": "The Inquiry's HTML edition of Volume II (fetched 12 November 2026), a reference for words, paragraph numbers, headings and notes",
+      "path": "reference/raw/volume-2.html",
+      "format": "html",
+      "mediatype": "text/html",
+      "bytes": 1626885,
+      "hash": "sha256:4d8d867283976c7b06f719f5424de13ded9125ba9501b9e285e294dc2b3b84dc",
+      "sources": [
+        {
+          "title": "Modules 2, 2A, 2B, 2C: Core decision-making and political governance, Volume II (HTML)",
+          "web": "https://covid19.public-inquiry.uk/documents/reports/modules-2-2a-2b-2c-core-decision-making-and-political-governance-volume-ii"
         }
       ]
     }

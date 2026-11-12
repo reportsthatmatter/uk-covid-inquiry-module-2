@@ -12,6 +12,7 @@ import {
   numberedParagraphs,
   hangingIndents,
   typographicHeadings,
+  divisionCrossReferences,
 } from "@rtm/ingest";
 
 /**
@@ -19,18 +20,18 @@ import {
  * its text is named here, and the passes it composes are library code, so a
  * fix to a shared pass reaches every report that calls it.
  *
- * The source is the Inquiry's born-digital, tagged InDesign PDF of Volume I
- * (460 A4 pages, single column), the February 2026 issue with post-publication
- * amends. Its structure tree is not read: the PDF pipeline below reads the layout, and the tags
- * (reference/blocks.jsonl) are the answer key. Page citations below are PDF pages (printed body page =
- * PDF page - 20).
+ * The sources are the Inquiry's born-digital, tagged InDesign PDFs of its two
+ * volumes: Volume I (460 A4 pages, single column), the February 2026 issue with
+ * post-publication amends, and Volume II (336 pages, November 2025), read in order. Their structure trees are not read: the PDF pipeline below reads the layout, and the tags
+ * (reference/blocks.jsonl) are the answer key. Page citations below are Volume I's PDF pages (printed
+ * body page = PDF page - 20) unless they say "vol. 2" (printed body page = PDF page - 10).
  *
- * Needs @rtm/ingest with typographicHeadings({ labelWraps }) and the sequencedNoteOpenings +
- * footnoteRestarts restart scan (ingest branch covidm2-passes-1024; not yet released when this was written).
+ * Volume II needs @rtm/ingest with typographicHeadings({ faceText }) and divisionCrossReferences() (ingest
+ * branch covidv2-headings-1112; not yet released when this was written).
  */
 export default pipeline({
   id: "uk-covid-inquiry-module-2",
-  title: "UK Covid-19 Inquiry, Modules 2, 2A, 2B, 2C: Core decision-making and political governance, Volume I",
+  title: "UK Covid-19 Inquiry, Modules 2, 2A, 2B, 2C: Core decision-making and political governance",
   authors: "The Rt Hon the Baroness Hallett DBE (Chair)",
   published_at: "20 November 2025",
   source_url: "https://covid19.public-inquiry.uk/wp-content/uploads/2026/02/12093057/M2-Volume-1-with-post-publication-amends-Feb-2026.pdf",
@@ -38,6 +39,9 @@ export default pipeline({
   volumes: [
     // HC 1436-I, Volume I of 2: Introduction, Voices, Executive summary, Chapters 1-8. Version 1.1 (Feb 2026).
     { path: "archive/covid-inquiry-module-2-vol1-hc1436-i-amended-2026-02.pdf", sha256: "af1ca2d83c5058b47c4ce7e81673b11f87064a5d0c27a85256c7618e65541bae" },
+    // HC 1436-II, Volume II of 2: Voices, Chapters 9-15, Appendices 1-3 (Appendix 3: the list of recommendations).
+    // Version 1 (November 2025); not re-issued as of 2026-11-12.
+    { path: "archive/covid-inquiry-module-2-vol2-hc1436-ii-2025-11.pdf", sha256: "08ab8adcc5049d470dd48c59cac912f33227b0663f9993a9e5d1d715c550969a" },
   ],
   passes: [
     // A paragraph run over a page break joins when the layout says it runs on: 3.97 runs from PDF p.140
@@ -70,6 +74,11 @@ export default pipeline({
     // With sequencedNoteOpenings, a page whose expected note is missing is read for a run from 1 low down.
     footnoteRestarts(),
     layoutMarkers(),
+    // Volume II names chapters of both volumes in running text, and where a line opens on the name it read as
+    // a division heading: "Chapter 2: The emergence of Covid-19, in Volume I, a reasonable worst-case" (vol. 2
+    // PDF p.48) and "Appendix 1: The background to this module and the Inquiry's methodology, in this" (p.94,
+    // after "child health inequalities (see"), the second filing the rest of Chapter 10 under "Appendix 1".
+    divisionCrossReferences(),
     // "3.98." paragraphs, the number at the margin and the text hanging one tab in (p.141).
     numberedParagraphs(),
     hangingIndents(),
@@ -91,7 +100,16 @@ export default pipeline({
         ["ProximaNova-Semibold|30|#15365a|b"],
         ["ProximaNova-Semibold|24|#15365a|b", "ProximaNova-SemiboldIt|24|#15365a|b|i"],
         ["ProximaNova-Semibold|21|#15365a|b"],
+        // Volume II sets each recommendation in a box headed in black Semibold 14pt, "Recommendation 1: Chief
+        // Medical Officer for Northern Ireland" over its text (PDF vol. 2 p.17), in the chapters and again in
+        // Appendix 3 (pp.325-331). Read as text, the title ran into the recommendation. The lowest level, so
+        // a recommendation sits under the subsection it closes. Volume I uses this face only on its contents
+        // pages (PDF pp.6-10) and Volume II on its own (pp.5-6), so only a line that opens "Recommendation N:" counts
+        // (faceText; most set a no-break space after "Recommendation").
+        // (Recommendation 11, and 10 in Chapter 11, are set in the regular weight marked bold: pp.139-141, 328.)
+        ["ProximaNova-Semibold|21|#000000|b", "ProximaNova|21|#000000|b"],
       ],
+      faceText: { "ProximaNova-Semibold|21|#000000|b": /^Recommendation\s+\d+:/, "ProximaNova|21|#000000|b": /^Recommendation\s+\d+:/ },
     }),
   ],
 });
