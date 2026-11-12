@@ -7688,9 +7688,7 @@ Joanna Goodman, co-founder of Covid-19 Bereaved Families for Justice
 
 9.4. The Government Chief Scientific Adviser is a permanent secretary-level post that reports directly to the UK government's Cabinet Secretary and is a UK-wide role.[^1] The office holder is responsible for:
 
-" providing scientific advice to the Prime Minister and members of the Cabinet,
-
-> advising the government on aspects of science for policy and improving the quality and use of scientific evidence and advice in government".[^2]
+> " providing scientific advice to the Prime Minister and members of the Cabinet, advising the government on aspects of science for policy and improving the quality and use of scientific evidence and advice in government".[^2]
 
 9.5. The Government Chief Scientific Adviser is supported by the Government Office for Science (also known as GO-Science), an office of the Department for Science, Innovation and Technology.[^3] From April 2018 to March 2023, the Government Chief Scientific Adviser was Professor Sir Patrick Vallance (later Lord Vallance of Balham), a clinical academic with a background in medicine and pharmacology.[^4] Professor Vallance explained that his role was "primarily about providing science advice to policy makers, rather than advising on science policy itself".[^5]
 
@@ -7704,9 +7702,7 @@ Joanna Goodman, co-founder of Covid-19 Bereaved Families for Justice
 
 9.9. In addition, the Chief Scientist (Health) for the Scottish Government reported to the Chief Medical Officer for Scotland, who was Dr Catherine Calderwood from April 2015 to April 2020. Professor David Crossman held the position of Chief Scientist (Health) for the Scottish Government from November 2017 to April 2022. However, he played no role in the pandemic response until March 2020, when he was invited to develop a testing strategy in Scotland and was appointed Vice Chair of the Scottish Government Covid-19 Advisory Group.[^10] Professor Crossman observed:
 
-" During the pandemic it was not entirely clear how the Scottish Government
-
-> wanted to use its Chief Scientific Adviser and CSH [Chief Scientist (Health)]. Certainly, there were times where I was uncertain where I fitted into the structures which provided advice to Scottish Government."[^11]
+> " During the pandemic it was not entirely clear how the Scottish Government wanted to use its Chief Scientific Adviser and CSH [Chief Scientist (Health)]. Certainly, there were times where I was uncertain where I fitted into the structures which provided advice to Scottish Government."[^11]
 
 Professor Crossman's limited early involvement in the pandemic response and his evidence that he did not know if he "would have had much traction" had he attempted to be more vocal in raising his concerns demonstrated a lack of engagement by Dr Calderwood with a senior scientific adviser to the Scottish Government at the beginning of the pandemic.[^12]
 
@@ -7726,7 +7722,7 @@ Professor Crossman's limited early involvement in the pandemic response and his 
 
 9.14. During the pandemic, Professor Whitty was supported by three Deputy Chief Medical Officers for England.[^22] Professor Whitty told the Inquiry that he and the Deputy Chief Medical Officers had "considerable mutual trust in one another's judgement".[^23] He also "spoke several times each day" with Professor Vallance, whom he described as "exceptionally level headed and collegiate".[^24] Professor Vallance stated that he felt "extremely fortunate" to work with Professor Whitty, with whom he felt "able to discuss everything".[^25] Both said that they were aligned in their advice on the vast majority of occasions and that they were able to explain the reasons for any disagreements to decision-makers.[^26] Boris Johnson MP, Prime Minister from July 2019 to September 2022, remarked that Professors Vallance and Whitty:
 
-" did an excellent job of presenting the science in a way that was most useful to political decision-makers".[^27]
+> " did an excellent job of presenting the science in a way that was most useful to political decision-makers".[^27]
 
 9.15. Under the devolution settlements, health is a devolved responsibility.[^28] Each devolved administration therefore has its own Chief Medical Officer.
 
@@ -7740,9 +7736,7 @@ Professor Crossman's limited early involvement in the pandemic response and his 
 
 9.19. Professor McBride told the Inquiry that he had responsibility for the provision of medical advice and also policy responsibility:
 
-" for all aspects of public health, so that would have included health protection,
-
-> health improvement. I also had policy responsibility for quality and safety and policy, so as that pertained to, for instance, serious adverse incidences, investigation processes and policy, complaints policy. I also had policy responsibility for research within health and social care … I also had a number of other roles within that, including sponsorship responsibilities on behalf of the department which I exercised in relation to the Public Health Agency."[^38]
+> " for all aspects of public health, so that would have included health protection, health improvement. I also had policy responsibility for quality and safety and policy, so as that pertained to, for instance, serious adverse incidences, investigation processes and policy, complaints policy. I also had policy responsibility for research within health and social care … I also had a number of other roles within that, including sponsorship responsibilities on behalf of the department which I exercised in relation to the Public Health Agency."[^38]
 
 During the pandemic, Professor McBride's role also extended to the operational aspects of the response.[^39] He accepted that he was not functionally independent of the Department of Health (Northern Ireland). He told the Inquiry that he was "conscious it almost seems like I'm trying to wear two hats, you know, both at the same time".[^40] While he accepted that he was "not independent in terms of policy responsibility", he emphasised that he was independent in his "professional advisory role".[^41]
 
@@ -7856,17 +7850,13 @@ The Scottish Government Covid-19 Advisory Group
 
 9.49. The Scottish Government Covid-19 Advisory Group met regularly for the first few months and senior decision-makers within the Scottish Government expressed satisfaction with its work. Ms Sturgeon commented:
 
-" [It] was a reliable and effective source of advice, and it worked well – both in
-
-> terms of the advice it provided directly and through its sub-groups, either on its own initiative or commissioned, and in its reciprocity with SAGE, which enabled advice from the latter to be interpreted for the Scottish context."[^90]
+> " [It] was a reliable and effective source of advice, and it worked well – both in terms of the advice it provided directly and through its sub-groups, either on its own initiative or commissioned, and in its reciprocity with SAGE, which enabled advice from the latter to be interpreted for the Scottish context."[^90]
 
 A principle of reciprocity was agreed between SAGE and the Scottish Government Covid-19 Advisory Group to ensure that the two groups were given access to each other's papers.[^91]
 
 9.50. Although the Scottish Government Covid-19 Advisory Group's role was akin to that of SAGE, it had fewer resources and a less established presence in government.[^92] Competing priorities meant that Professor Smith attended just 8 of the 40 meetings in 2020 and others would regularly deputise on his behalf.[^93] His lack of attendance in person became an issue of concern for members, with the minutes of the meeting on 20 April 2020 recording that Professor Morris "will send Gregor [Professor Smith] an email about the group".[^94] Professor Morris accepted that "you could conclude" that:
 
-" in order to engage with that expertise properly or appropriately, it would have
-
-> been necessary for the CMO [Chief Medical Officer] to have attended the meetings and listened to the views and expert opinions of that wide variety of experts".[^95]
+> " in order to engage with that expertise properly or appropriately, it would have been necessary for the CMO [Chief Medical Officer] to have attended the meetings and listened to the views and expert opinions of that wide variety of experts".[^95]
 
 9.51. The Scottish Government also received advice from other organisations, such as Public Health Scotland, the four Chief Medical Officers, Scottish territorial health boards, Scottish local authorities, primary care services, the Scottish business community and the independent care sector.[^96] This meant that the group often struggled to secure direct access to senior decision-makers. Professor Morris reflected:
 
@@ -7898,11 +7888,11 @@ The Strategic Intelligence Group (Northern Ireland)
 
 ##### England
 
-9.58. Public Health England was established in April 2013 as an executive agency of the Department of Health (known from January 2018 as the Department of Health and Social Care). Public Health England provided the infrastructure for health protection in England, including the investigation and management of local and nationwide outbreaks of infectious disease.[^111] It was effectively abolished by the UK government following the commencement of the pandemic and replaced by the UK Health
+9.58. Public Health England was established in April 2013 as an executive agency of the Department of Health (known from January 2018 as the Department of Health and Social Care). Public Health England provided the infrastructure for health protection in England, including the investigation and management of local and nationwide outbreaks of infectious disease.[^111] It was effectively abolished by the UK government
 
 %%page 18#2%%
 
-Security Agency in October 2021.[^112] The UK Health Security Agency was established to provide the UK's "permanent standing capacity to prepare for, prevent and respond to infectious diseases and other threats to health".[^113]
+> following the commencement of the pandemic and replaced by the UK Health Security Agency in October 2021.[^112] The UK Health Security Agency was established to provide the UK's "permanent standing capacity to prepare for, prevent and respond to infectious diseases and other threats to health".[^113]
 
 9.59. During the Covid-19 response, Public Health England delivered clinical and public health advice to the Chief Medical Officer for England and to government departments.[^114] It also provided operational support to the Department of Health and Social Care and to the NHS and translated SAGE's advice into evidence-based guidance for clinical audiences and the public. In addition, Public Health England undertook a range of specific scientific, research and evaluation tasks, including early testing and contact tracing.
 
@@ -7932,9 +7922,11 @@ Security Agency in October 2021.[^112] The UK Health Security Agency was establi
 
 ##### Wales
 
-9.68. Public Health Wales is an NHS trust dedicated to improving health, reducing health inequalities and protecting public wellbeing in Wales. It provided a wide range of advice to the Welsh Government. As Dr Tracey Cooper (Chief Executive of Public Health Wales from June 2014) put it: "[T]he advice was about everything."[^124] This included lockdowns and other interventions. Public Health Wales also played a key role in developing several Welsh Government plans and strategies.[^125] Dr Cooper noted that its role was initially unclear and often extended beyond its mandate.[^126]
+9.68. Public Health Wales is an NHS trust dedicated to improving health, reducing health inequalities and protecting public wellbeing in Wales. It provided a wide range of advice to the Welsh Government. As Dr Tracey Cooper (Chief Executive of Public Health Wales from June 2014) put it: "[T]he advice was about everything."[^124] This
 
 %%page 20#2%%
+
+> included lockdowns and other interventions. Public Health Wales also played a key role in developing several Welsh Government plans and strategies.[^125] Dr Cooper noted that its role was initially unclear and often extended beyond its mandate.[^126]
 
 9.69. Public Health Wales eventually played a crucial advisory role during the pandemic, but it was not adequately consulted by the Welsh Government in January and February 2020. Mr Drakeford told the Inquiry:
 
@@ -7974,11 +7966,11 @@ Security Agency in October 2021.[^112] The UK Health Security Agency was establi
 
 9.81. All members of and participants in the UK's scientific advisory groups are to be highly commended for their exemplary service in the course of the pandemic. The Inquiry nevertheless identified two areas in which the recruitment of participants for scientific advisory groups could be improved for the future: open and transparent recruitment processes and also greater diversity of participants.
 
-9.82. SAGE is not a permanent body and has no standing participants.[^145] The participants of SAGE and its sub-groups are recruited on an ad hoc basis according to the requirements of the specific emergency. Each meeting brings together "scientists relevant to the questions that are thought most important at that point in time".[^146] The flexibility afforded by this approach is an advantage of the SAGE system. During the Covid-19 pandemic, it meant that the composition of SAGE could be adapted when necessary and tailored to evolving policy needs. As Dr Stuart Wainwright, Director of the Government Office for Science from December 2019 to June 2023, suggested:
+9.82. SAGE is not a permanent body and has no standing participants.[^145] The participants of SAGE and its sub-groups are recruited on an ad hoc basis according to the requirements of the specific emergency. Each meeting brings together "scientists relevant to the questions that are thought most important at that point in time".[^146] The flexibility afforded by this approach is an advantage of the SAGE system. During the
 
 %%page 23#2%%
 
-"You need the expertise in the room for the situation at hand."[^147]
+> Covid-19 pandemic, it meant that the composition of SAGE could be adapted when necessary and tailored to evolving policy needs. As Dr Stuart Wainwright, Director of the Government Office for Science from December 2019 to June 2023, suggested: "You need the expertise in the room for the situation at hand."[^147]
 
 9.83. The rapid identification of scientific experts is crucial during a public health emergency. It is equally important that those experts are drawn from a diverse range of disciplines, backgrounds and experience. The incorporation of multiple voices, including those with dissenting views, helps to build sufficient challenge into the advisory process and to guard against 'groupthink'.[^148]
 
@@ -7986,9 +7978,7 @@ Security Agency in October 2021.[^112] The UK Health Security Agency was establi
 
 > " The first three SAGE meetings were attended by a number of experts chosen because of their expertise in the fields most directly relevant to the questions SAGE had to address, as well as some officials from DHSC [the Department of Health and Social Care], PHE and some CSAs [Chief Scientific Advisers]."[^149]
 
-In a medical crisis, the Chief Medical Officer will also usually "suggest medical and public health experts".[^150] The initial list of invitees was determined by Professors
-
-Vallance and Whitty, in consultation with the SAGE Secretariat, and included:
+> In a medical crisis, the Chief Medical Officer will also usually "suggest medical and public health experts".[^150] The initial list of invitees was determined by Professors Vallance and Whitty, in consultation with the SAGE Secretariat, and included:
 
 > " people who had experience of epidemic modelling and other sciences in the context of previous emergencies such as Ebola".[^151]
 
@@ -8089,21 +8079,17 @@ The Scottish Government Covid-19 Advisory Group provided advice without commissi
 
 %%page 30#2%%
 
-" a central view of scientific understanding at that point in time, and where
-
-> necessary indicates the spread of opinion or uncertainty around that central view".[^197]
+> " a central view of scientific understanding at that point in time, and where necessary indicates the spread of opinion or uncertainty around that central view".[^197]
 
 9.111. A consensus view inevitably carries more weight than an individual opinion, but it also takes more time to generate, which necessarily delays the provision of advice to decision-makers. In an emergency situation, a balance must be struck between the robustness of advice and the need to produce it rapidly. Professor Medley estimated that the delay created by the consensus process was "at most two calendar days".[^198] This delay was not excessive and was worthwhile because it led to a unified view formulated by multiple specialist disciplines.
 
 9.112. Some SAGE minutes recorded uncertainty by setting out a "level of certainty rating" using grading expressed in terms of confidence.[^199] This provided decision-makers with clarity as to the level of certainty expressed in the scientific advice. However, this approach was adopted only occasionally rather than routinely. Professor Whitty reflected:
 
-" We should have from the beginning had the discipline more thoroughly of saying high confidence and low confidence. I think that was a sensible way to do it."[^200]
+> " We should have from the beginning had the discipline more thoroughly of saying high confidence and low confidence. I think that was a sensible way to do it."[^200]
 
 9.113. The consensus approach, while providing decision-makers with a concise synopsis of the evidence on which SAGE's advice was based, meant that the minutes failed to capture the full extent of the discussion that had taken place. Minority or dissenting opinions, which could have been significant, were excluded from the minutes. Professor Mark Woolhouse, Professor of Infectious Disease Epidemiology at the University of Edinburgh and a participant in SPI-M-O, expressed the following concern:
 
-" SAGE and its subgroups put too much emphasis on consensus and too little on
-
-> minority views. The most likely outcome – intended or otherwise – of only expressing a single view is that it presents policy makers with an overly limited set of options and so will channel policy decisions along a particular route."[^201]
+> " SAGE and its subgroups put too much emphasis on consensus and too little on minority views. The most likely outcome – intended or otherwise – of only expressing a single view is that it presents policy makers with an overly limited set of options and so will channel policy decisions along a particular route."[^201]
 
 %%page 31#2%%
 
@@ -8548,7 +8534,7 @@ The Government Office for Science (GO-Science), the Scottish Government, the Wel
 
 10.5. As recognised by Public Health England in June 2020:
 
-" [T]he burden of disease and mortality from COVID-19 is not evenly spread in the population."[^3]
+> " [T]he burden of disease and mortality from COVID-19 is not evenly spread in the population."[^3]
 
 Those at greater risk of direct harm were largely those who were most at risk clinically. People in later life experience a greater prevalence of chronic illness, reduced immunity and, more generally, frailty.[^4] People with underlying health conditions were at greater risk of suffering severe illness requiring hospital admission and of dying from Covid-19.[^5]
 
@@ -8846,9 +8832,7 @@ She noted that "it is very difficult to draw any conclusion other than women hav
 
 %%page 84#2%%
 
-" The science is clear that children and young people are typically at very low risk
-
-> from COVID. The disease is much less severe for children, even if they do catch coronavirus."[^182]
+> " The science is clear that children and young people are typically at very low risk from COVID. The disease is much less severe for children, even if they do catch coronavirus."[^182]
 
 The decisions to close schools and early years provision to most children and to implement a lockdown were steps taken to protect the adult population. They brought ordinary childhood to a halt.
 
@@ -8856,15 +8840,11 @@ The decisions to close schools and early years provision to most children and to
 
 10.91. Access to play and interaction with family and friends in the early years are critical to children's development.[^184] If the opportunity to develop early skills is lost, it may be difficult to recover.[^185] Professor Sally Holland, Children's Commissioner for Wales from April 2015 to April 2022, explained:
 
-" [C]hildren experienced an extraordinary period, losing many of the activities that
-
-> all of us would have taken for granted in our own childhood, of course: attending school, socialising with friends, visiting grandparents, et cetera. And we need to remember that these are not just nice to haves for children, but they're an important part of their development and their ability to thrive."[^186]
+> " [C]hildren experienced an extraordinary period, losing many of the activities that all of us would have taken for granted in our own childhood, of course: attending school, socialising with friends, visiting grandparents, et cetera. And we need to remember that these are not just nice to haves for children, but they're an important part of their development and their ability to thrive."[^186]
 
 Anne Longfield (later Baroness Longfield), Children's Commissioner for England from March 2015 to February 2021, observed:
 
-" Whilst the pandemic, and our country's response to it was a major challenge
-
-> for most children, it was a disaster for many disadvantaged children who were already living with risks and vulnerabilities."[^187]
+> " Whilst the pandemic, and our country's response to it was a major challenge for most children, it was a disaster for many disadvantaged children who were already living with risks and vulnerabilities."[^187]
 
 Professor David Taylor-Robinson, expert witness on child health inequalities (see Appendix 1: The background to this module and the Inquiry's methodology, in this volume), believed that the unequal impact of the pandemic on children could have been anticipated and mitigated with a comprehensive strategy that addressed the needs of children and young people.[^188]
 
@@ -8956,17 +8936,13 @@ The UK government should introduce legislation to place child rights impact asse
 
 10.111. Ms MacNamara warned at the time that leaders had insufficient time to identify those who would be most at risk during a lockdown and to develop strategies to protect them. There was also a lack of understanding in the UK government about the lives of those who would be most adversely affected by the pandemic and the foreseeable risk they faced.[^227] Ms MacNamara noted:
 
-" [ W]hile there was undoubtedly sympathy for the differential impacts on women,
-
-> poorer people and how Covid was disproportionately harming Black and Asian communities, when it was raised it was treated as if these were naturally occurring phenomena rather than the consequences of deliberate choices (albeit often historic). I do not think impacts on women and children were properly appreciated even much later in the process."[^228]
+> " [ W]hile there was undoubtedly sympathy for the differential impacts on women, poorer people and how Covid was disproportionately harming Black and Asian communities, when it was raised it was treated as if these were naturally occurring phenomena rather than the consequences of deliberate choices (albeit often historic). I do not think impacts on women and children were properly appreciated even much later in the process."[^228]
 
 This manifested itself in the fact that policy discussions within the UK government did not always recognise the reality of home life for many – for example, of those who lived in multi-generational housing and could not self-isolate, those who lived in tower blocks and had no garden, those who could not afford to provide laptops for their children, and those who had to work from home and look after their children in confined spaces. As Ms MacNamara commented: "[P]eople who were living like that were not working in Downing Street or 70 Whitehall."[^229]
 
 10.112. Lee Cain, Director of Communications at 10 Downing Street from July 2019 to November 2020, explained:
 
-" One of the challenges you face when you work on policy is the dynamic of the
-
-> room, which in this case was white and middle aged. They were doing their best, but without diversity, some policy decisions slipped through the cracks."[^230]
+> " One of the challenges you face when you work on policy is the dynamic of the room, which in this case was white and middle aged. They were doing their best, but without diversity, some policy decisions slipped through the cracks."[^230]
 
 Mr Cain described asking 20 people in the Cabinet Room: "[H]ow many people had received free school meals[?] Nobody had – resulting in a policy and political blindspot."[^231] The UK government's approach to free school meals and, in particular, the delayed introduction of free school meals to support children during holidays (following footballer Marcus Rashford's campaign in favour of free meals during holidays) was, in Mr Cain's view, a "huge blunder".[^232]
 
@@ -8978,9 +8954,7 @@ Mr Cain described asking 20 people in the Cabinet Room: "[H]ow many people had r
 
 10.115. The Covid-19 Taskforce had a workstream for disproportionately impacted groups, which came into existence following Public Health England's June 2020 report, Disparities in the Risk and Outcomes of COVID-19.[^237] In September 2020, Covid-O tasked the taskforce:
 
-" with ensuring that decisions on future interventions fully factor in the likely
-
-> impacts on disproportionately impacted groups (including due consideration of Equalities Impact Assessments)".[^238]
+> " with ensuring that decisions on future interventions fully factor in the likely impacts on disproportionately impacted groups (including due consideration of Equalities Impact Assessments)".[^238]
 
 As late as November 2020, Mr Case – by this time Cabinet Secretary and Head of the Civil Service – asked the Covid-19 Taskforce to commission SAGE to produce estimates and modelling in relation to the non-Covid-19 health and societal impacts of the second lockdown. He also asked that, in future, SAGE produce assessments of these consequences of their advice.[^239] The Covid-19 Taskforce sought to "ensure that the different components of the COVID-19 response balanced the health, economic and social impacts".[^240] From about January 2021, it produced 'consensus packs' that considered the health, economic and social impacts of potential policy decisions.[^241]
 
@@ -9088,9 +9062,7 @@ The UK government, Scottish Government, Welsh Government and Northern Ireland Ex
 
 11.14. The 2019 Pan-Wales Response Plan provided for the Civil Contingencies Group (Wales) to be established:
 
-" where an emergency has occurred or is likely to occur with a LEVEL 1 impact.
-
-> The CCG [Civil Contingencies Group] will generally be convened for rising tide incidents such as pandemic flu."[^19]
+> " where an emergency has occurred or is likely to occur with a LEVEL 1 impact. The CCG [Civil Contingencies Group] will generally be convened for rising tide incidents such as pandemic flu."[^19]
 
 The main purpose of the Civil Contingencies Group (Wales) is to "provide strategic leadership to the response to emergencies falling fully within devolved competence".[^20] It is "chaired by a senior Welsh Government official and comprise[s] largely of representatives from Welsh Government Departments".[^21] It was convened in response to Covid-19 on 4 February 2020.[^22] The Pan-Wales Response Plan also provides for activation of the Emergency Coordination Centre (Wales), the primary function of which is to gather, coordinate and disseminate information.[^23] As outlined in Chapter 2: The emergence of Covid-19, in Volume I, there was a lack of clarity about the extent of the operations of the Emergency Coordination Centre (Wales) in February 2020.[^24]
 
@@ -9106,17 +9078,13 @@ The main purpose of the Civil Contingencies Group (Wales) is to "provide strateg
 
 11.17. The UK government used a number of different decision-making structures during its Covid-19 response. Mr Johnson told the Inquiry in his written evidence that he felt the structures that the UK government had in place to deal with the response were "effective, strong and resilient" and "enabled key decisions to be taken speedily and to coordinate different parts of government".[^32] However, during the Inquiry's public hearing, he expressed a more nuanced view, stating that the system was "all too diffuse" and that:
 
-" for future pandemics there needs to be a – more clarity about which are the
-
-> debating – the discussion meetings and which are the decision-making meetings".[^33]
+> " for future pandemics there needs to be a – more clarity about which are the debating – the discussion meetings and which are the decision-making meetings".[^33]
 
 11.18. It is evident from the evidence received by the Inquiry (examined below) – and from the numerous reforms made to the UK government's decision-making structures during 2020 – that they required improvement during the pandemic.
 
 11.19. By March 2020, there were concerns within the UK government that COBR alone was not able to "bear the weight of the whole-of-government effort that this now required".[^34] As Helen MacNamara (Deputy Cabinet Secretary from January 2019 to February 2021) noted, issues were being raised that "would need more input from a wider group of departmental Ministers", adding:
 
-" [C]oncerns included the wrong people being in the room and so the Prime
-
-> Minister was not being given sufficiently expert policy advice; concerns about an over-mighty No 10 operating without Ministers, and the sense that too many groups of people were whirring around having similar conversations – duplicating efforts and creating confused lines."[^35]
+> " [C]oncerns included the wrong people being in the room and so the Prime Minister was not being given sufficiently expert policy advice; concerns about an over-mighty No 10 operating without Ministers, and the sense that too many groups of people were whirring around having similar conversations – duplicating efforts and creating confused lines."[^35]
 
 %%page 103#2%%
 
@@ -9250,9 +9218,7 @@ Similarly, Mr Sunak stated: "Cabinet meetings were the forum in which key decisi
 
 > " Strategic decisions would be made by Cabinet and more operational ones by SGORR [Scottish Government Resilience Room]. These decisions would often be informed by discussions in 'Gold' meetings or Deep Dive sessions."[^110]
 
-However, the evidence suggests that important decisions were, in practice, made outside the formal structures of the Scottish Cabinet and the Scottish Government
-
-Resilience Room.
+> However, the evidence suggests that important decisions were, in practice, made outside the formal structures of the Scottish Cabinet and the Scottish Government Resilience Room.
 
 11.50. The 'Gold' or 'Gold Command' (or other variations) structure was not a formally constituted group but an informal label attached to a series of meetings between senior decision-makers and their advisers that took place outside the formal decision-making structures.
 
@@ -9364,7 +9330,7 @@ Yet the First Minister and deputy First Minister were both empowered to activate
 
 11.81. Additionally, with the exception of Mr Swann (who was the Minister of Health at the time), ministers who were not members of the two main parties were disadvantaged during the pandemic.[^160] Naomi Long MLA (Minister for Justice in Northern Ireland from January 2020 to October 2022), a member of the Alliance Party, had the impression throughout the pandemic that discussions that occurred before Executive Committee meetings between civil servants, the First Minister, the deputy First Minister and the Minister of Health were negotiations for the ministers to come to an agreed position. This made it difficult to seek detailed advice from officials prior to Executive Committee meetings.[^161] According to Ms Long, it was also "very isolating" because:
 
-" we were taking decisions which would have a huge impact upon people's lives, and yet were not part of the wider conversation".[^162]
+> " we were taking decisions which would have a huge impact upon people's lives, and yet were not part of the wider conversation".[^162]
 
 It is understood that, given the system of mandatory coalition, prior collaboration between the two main parties in Northern Ireland happens routinely. A desire by the two main parties to narrow issues in advance of Executive Committee meetings in the hope of achieving consensus was understandable. However, given that each minister on the Executive Committee bore part of the overall responsibility for those matters they were asked to decide on, no ministers should have felt that they were excluded or deprived of their ability to properly scrutinise the decisions being made.
 
@@ -9656,9 +9622,7 @@ The response to a future whole-system civil emergency should be coordinated via 
 
 11.158. On 26 August 2020, Mr Case said to Mr Cummings and Mr Cain in a WhatsApp message that Mr Johnson:
 
-" changes strategic direction every day (Monday we were all about fear of virus
-
-> returning as per Europe, March etc – today we were in 'let it rip' mode cos [because] the UK is pathetic, needs a cold shower etc). He cannot lead and we cannot support him in leading with this approach. The team captain cannot change the call on the big plays every day. The team can't deliver anything under these circs [circumstances] … IT HAS TO STOP! Decide and set direction – deliver – explain. Gov't [government] isn't actually that hard, but this guy is really making it impossible."[^296]
+> " changes strategic direction every day (Monday we were all about fear of virus returning as per Europe, March etc – today we were in 'let it rip' mode cos [because] the UK is pathetic, needs a cold shower etc). He cannot lead and we cannot support him in leading with this approach. The team captain cannot change the call on the big plays every day. The team can't deliver anything under these circs [circumstances] … IT HAS TO STOP! Decide and set direction – deliver – explain. Gov't [government] isn't actually that hard, but this guy is really making it impossible."[^296]
 
 11.159. Just a few weeks later, on the morning of 18 September 2020, Mr Case (by now Cabinet Secretary and Head of the Civil Service) told Mr Hancock that the circuit breaker proposal was "gaining traction" with Mr Johnson. However, by the end of the day this had changed, with Mr Johnson wanting to "double down on present strategy" instead, by way of "tougher local lockdown/enforcement" and "warning messages about what happens if people don't follow the rules".[^297]
 
@@ -9744,7 +9708,7 @@ Mr Cummings told the Inquiry that Mr Johnson had explained to him in July 2020 t
 
 11.182. The Inquiry did not identify any issues related to either the culture or leadership within the Welsh Government during the response to the pandemic. Mr Drakeford had the confidence of his Cabinet and ministers described his approach as "careful, considered, and compassionate".[^353] They said that he led a:
 
-" team effort … with a clear understanding of respected roles and relationships in terms of expertise and authority".[^354]
+> " team effort … with a clear understanding of respected roles and relationships in terms of expertise and authority".[^354]
 
 Many of those responsible for working on the pandemic response had already known each other and worked together positively for a number of years.[^355] The evidence presented to the Inquiry suggests that those positive relationships continued throughout the duration of the pandemic response.
 
@@ -9752,9 +9716,7 @@ Many of those responsible for working on the pandemic response had already known
 
 11.183. Key decision-makers and their advisers in the Scottish Government also maintained good and professional relationships throughout the pandemic. As Ms Sturgeon noted:
 
-" Due to its scale, the UK government does not operate as cohesively as the
-
-> DAs [devolved administrations] … agreement reached with an individual UK department can break down when it gets to the Cabinet Office or Number 10, and vice versa."[^356]
+> " Due to its scale, the UK government does not operate as cohesively as the DAs [devolved administrations] … agreement reached with an individual UK department can break down when it gets to the Cabinet Office or Number 10, and vice versa."[^356]
 
 11.184. Ms Sturgeon's leadership style was central to how high-level decisions were made within the Scottish Government. She was a serious and diligent leader throughout the pandemic. She explained that she chose to read widely from publicly available information in addition to the advice provided to her through the Scottish Government's own structures.[^357] She was experienced in processing large quantities of information and making judgements about what sources were of most utility and importance.[^358] She encouraged those advising her to be clear if the advice being provided did not represent a consensus view and to set out what the differences of opinion were.[^359] She took responsibility for decisions – for example, in relation to the decisions about local levels, she publicly stated that "it's really important that the buck for these difficult decisions stops here, with me and government" and that:
 
@@ -10005,13 +9967,11 @@ Source: INQ000370317
 
 %%page 167#2%%
 
-" [T]here is room for improvement in future pandemic messaging ... FACTS was, perhaps, a clever acronym in search of a coherent message."[^52]
+> " [T]here is room for improvement in future pandemic messaging ... FACTS was, perhaps, a clever acronym in search of a coherent message."[^52]
 
 12.31. The Northern Ireland Executive also rejected the Stay Alert messaging.[^53] Michelle O'Neill MLA, deputy First Minister of Northern Ireland from January 2020 to February 2022, reflected:
 
-" [T]he messaging worked better in the early stages of the pandemic as it was
-
-> clear and precise … The changes to the message in May 2020 – 'Stay alert, Control the virus, Save lives' – made the messaging less clear and more abstract."[^54]
+> " [T]he messaging worked better in the early stages of the pandemic as it was clear and precise … The changes to the message in May 2020 – 'Stay alert, Control the virus, Save lives' – made the messaging less clear and more abstract."[^54]
 
 The Stay Home campaign was placed on all government channels in Northern Ireland from March 2020 and ran with the core message 'We all must do it to get through it', alongside the key actions people needed to take to protect themselves and others from the virus. In the initial stage, this was 'Stay at home, Keep your distance, Wash your hands'.[^55] By 28 May 2020, the campaign was estimated to have reached approximately 98% of the population in Northern Ireland at least once, with the average adult exposed to it 86 times.[^56] Throughout June and July 2020, this appears to have been supplemented with the 'two Ws and three Cs' campaign for social media, which encouraged people to:
 
@@ -10375,13 +10335,7 @@ The UK government and devolved administrations should each develop action plans 
 
 - A 'triple lock' test: Before emergency regulations can be made, three requirements must be met:
 
-― Emergency: An emergency must have occurred, be occurring, or be about to occur.
-
-― Necessity: It must be necessary to introduce emergency measures to prevent,
-
-> control or mitigate the impact of the emergency. This requirement is only met if existing legislation is inadequate (due to delay or inefficacy).
-
-― Urgency: There must be an urgent need for the provisions.[^7]
+> ― Emergency: An emergency must have occurred, be occurring, or be about to occur. ― Necessity: It must be necessary to introduce emergency measures to prevent, control or mitigate the impact of the emergency. This requirement is only met if existing legislation is inadequate (due to delay or inefficacy). ― Urgency: There must be an urgent need for the provisions.[^7]
 
 - Time limits: Emergency powers lapse at the end of 30 days, unless renewed.[^8]
 - Parliamentary oversight: Regulations must be laid before the UK Parliament as soon as is reasonably practicable, and they lapse at the end of seven days unless approved.[^9]
@@ -10992,21 +10946,17 @@ After the early months of the pandemic, the Scottish Government had more opportu
 
 %%page 235#2%%
 
-" no real appetite to ensure the views and priorities of the Devolved Governments were fully addressed".[^65]
+> " no real appetite to ensure the views and priorities of the Devolved Governments were fully addressed".[^65]
 
 14.31. Greater efforts should have been made by the UK government to ensure that the devolved administrations could add value to decision-making through their participation in COBR meetings – including, where possible, by earlier sharing of agendas and papers. While this may have been difficult in the early stages of the pandemic, the failure to do so became less understandable as time went on.
 
 14.32. The inclusion of the devolved administrations in COBR created some internal tensions in the UK government. Mr Gove recalled that some UK Cabinet members:
 
-" bristled at the fact that sometimes the devolved administrations were involved
-
-> in discussions and influencing decision-making in fora which they were not represented in".[^66]
+> " bristled at the fact that sometimes the devolved administrations were involved in discussions and influencing decision-making in fora which they were not represented in".[^66]
 
 14.33. The possibility of leaks was a perennial concern, and the inclusion of the First Ministers and deputy First Ministers was thought by some to make COBR less effective as a forum for making decisions.[^67] This was largely due to political tensions between Mr Johnson and Ms Sturgeon, which hindered frank and full discussions.[^68] Ms MacNamara told the Inquiry that the inclusion of the devolved administrations in COBR made it:
 
-" a less trusting and effective forum given the political relations between the
-
-Prime Minister and the First Minister of Scotland in particular".[^69]
+> " a less trusting and effective forum given the political relations between the Prime Minister and the First Minister of Scotland in particular".[^69]
 
 %%page 236#2%%
 
@@ -11032,9 +10982,7 @@ The UK government should invite the devolved administrations, as a matter of sta
 
 14.38. The proposal for Covid-O suggested regular attendance by the devolved administrations in order to:
 
-" bind the Devolved Administrations more closely in those areas where we want
-
-> to take a UK-wide approach, and indeed to remain aligned and informed where we are content to see divergence".[^77]
+> " bind the Devolved Administrations more closely in those areas where we want to take a UK-wide approach, and indeed to remain aligned and informed where we are content to see divergence".[^77]
 
 However, it was decided at the first meeting of Covid-O – attended only by UK government ministers and officials – that representatives from the devolved administrations should be invited to attend only "by exception".[^78] From the establishment of Covid-O (May 2020) to September 2020, the devolved administrations were invited to attend only when the agenda contained items where a UK-wide approach was needed.[^79] This changed on 30 September 2020, when Mr Gove wrote to the First Ministers of the devolved administrations (and the deputy First Minister of Northern Ireland), inviting them to attend weekly Covid-O meetings from 1 October 2020.[^80]
 
@@ -11376,9 +11324,7 @@ Baroness Foster told the Inquiry that there was a lack of cohesiveness and a "mu
 
 14.117. Ms Sturgeon described a four-nations response as being one where the four nations:
 
-" would work co-operatively and collaboratively, sharing insight and experience,
-
-> and where possible adopt a common approach; if our approaches diverged – either because of epidemiological or other health factors, and/or a difference of opinion about the appropriate interventions – we would develop a mutual understanding of the reasons, respect each other's positions, seek to avoid confusion in our communications, and be mindful of creating unintended consequences for other administrations; and discuss areas where reserved and devolved responsibilities intersected, so that the UK government in reaching decisions on reserved matters would understand the DA perspective and any impact on the exercise of our devolved responsibilities."[^254]
+> " would work co-operatively and collaboratively, sharing insight and experience, and where possible adopt a common approach; if our approaches diverged – either because of epidemiological or other health factors, and/or a difference of opinion about the appropriate interventions – we would develop a mutual understanding of the reasons, respect each other's positions, seek to avoid confusion in our communications, and be mindful of creating unintended consequences for other administrations; and discuss areas where reserved and devolved responsibilities intersected, so that the UK government in reaching decisions on reserved matters would understand the DA perspective and any impact on the exercise of our devolved responsibilities."[^254]
 
 Mr Drakeford likewise noted that the UK government should have appreciated that the devolved administrations had their own powers and responsibilities, and that there should have been regular meetings at a heads-of-government level to "discuss common positions and to co-ordinate announcements where it was helpful".[^255]
 
@@ -11416,9 +11362,7 @@ While intergovernmental relations should be facilitated through COBR in the init
 
 15.3. As the Inquiry has been told, including by Professor Mark Woolhouse (Professor of Infectious Disease Epidemiology at the University of Edinburgh):
 
-" [O]n the scale of potential pandemics, Covid-19 was not at the top and it was
-
-> possibly quite far from the top. It may be that next time – and there will be a next time … we are dealing with a virus that is much more deadly and is also much more transmissible … The next pandemic could be far more difficult to handle than Covid-19 was, and we all saw the damage that that pandemic caused us."[^2]
+> " [O]n the scale of potential pandemics, Covid-19 was not at the top and it was possibly quite far from the top. It may be that next time – and there will be a next time … we are dealing with a virus that is much more deadly and is also much more transmissible … The next pandemic could be far more difficult to handle than Covid-19 was, and we all saw the damage that that pandemic caused us."[^2]
 
 It is therefore of vital importance that the issues with processes, planning and policy identified in both the Inquiry's Module 1 Report and this Report are not repeated. In order to minimise the vast potential financial, economic and human costs of future pandemics or other civil emergencies, the UK must be better prepared.
 

@@ -1,9 +1,9 @@
 {
   "report": "uk-covid-inquiry-module-2",
   "set": "held-out",
-  "edition": "Volume I's PDF's own structure tree (tagged PDF, InDesign: H1-H5, P, Note, LI/Lbl, role-mapped), February 2026 issue with post-publication amends",
+  "edition": "Volumes I and II's PDFs' own structure trees (tagged PDF, InDesign: H1-H5, P, Note, LI/Lbl, role-mapped); Volume I the February 2026 issue with post-publication amends, Volume II the November 2025 issue",
   "licence": "Crown copyright, reused under the Open Government Licence v3.0 (https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).",
-  "fetched": "2026-10-24",
+  "fetched": "2026-11-12",
   "sources": [
     {
       "path": "archive/covid-inquiry-module-2-vol1-hc1436-i-amended-2026-02.pdf",
@@ -11,32 +11,43 @@
       "bytes": 11917867
     },
     {
+      "path": "archive/covid-inquiry-module-2-vol2-hc1436-ii-2025-11.pdf",
+      "sha256": "08ab8adcc5049d470dd48c59cac912f33227b0663f9993a9e5d1d715c550969a",
+      "bytes": 3093017
+    },
+    {
       "path": "reference/raw/volume-1.html",
       "url": "https://covid19.public-inquiry.uk/documents/reports/modules-2-2a-2b-2c-core-decision-making-and-political-governance-volume-i",
       "sha256": "2c956f5366315f39e810a026fcad7df75397bc6b4d4da3e404118e9b5f718a67",
       "bytes": 2322566
+    },
+    {
+      "path": "reference/raw/volume-2.html",
+      "url": "https://covid19.public-inquiry.uk/documents/reports/modules-2-2a-2b-2c-core-decision-making-and-political-governance-volume-ii",
+      "sha256": "4d8d867283976c7b06f719f5424de13ded9125ba9501b9e285e294dc2b3b84dc",
+      "bytes": 1626885
     }
   ],
   "sources_note": "The reference is derived from the source PDF already in archive/, so no copy of the PDF is kept under reference/raw/.",
   "blocks": {
     "path": "reference/blocks.jsonl",
-    "sha256": "d301f688f6ab365fda220b35dc2c71a60c0b2809661edaaa16fbb1f688e4c461",
+    "sha256": "63cdbcbb1f2812a75e8fae53cdaa974ee21f21a55f1e9d028651689a9c4d6156",
     "normaliser": "reportsthatmatter scripts/score/reference.py, adapter tagged, version 2",
-    "built": "2026-10-24",
+    "built": "2026-11-12",
     "counts": {
-      "contents": 3,
-      "heading": 174,
-      "list": 14,
-      "note": 3241,
-      "paragraph": 2092,
-      "quote": 585
+      "contents": 6,
+      "heading": 417,
+      "list": 17,
+      "note": 5032,
+      "paragraph": 3420,
+      "quote": 847
     },
-    "markers": 3241,
-    "markers_linked": 3235,
-    "words": 169596
+    "markers": 5032,
+    "markers_linked": 5024,
+    "words": 291365
   },
   "caveats": [
     "A new publisher family (the UK Covid-19 Inquiry), so held out: score it, do not tune passes on it.",
-    "The Inquiry's own HTML edition of Volume I (reference/raw/volume-1.html) is cached as a second reference: amended text, numbered paragraphs, h2-h5 headings and per-chapter linked notes, but no page anchors. The Inquiry's site refuses this script's User-Agent (403), so fetch it with --cache from a browser-UA download."
+    "The Inquiry's own HTML editions of both volumes (reference/raw/volume-1.html, volume-2.html) are cached as a second reference: numbered paragraphs, h2-h5 headings and per-chapter linked notes, but no page anchors (Volume II's omits 18 of the PDF's 1,791 note markers). The Inquiry's site refuses this script's User-Agent (403), so fetch them with --cache from a browser-UA download."
   ]
 }

@@ -13,6 +13,7 @@ import {
   hangingIndents,
   typographicHeadings,
   divisionCrossReferences,
+  quoteInset,
 } from "@rtm/ingest";
 
 /**
@@ -79,6 +80,11 @@ export default pipeline({
     // PDF p.48) and "Appendix 1: The background to this module and the Inquiry's methodology, in this" (p.94,
     // after "child health inequalities (see"), the second filing the rest of Chapter 10 under "Appendix 1".
     divisionCrossReferences(),
+    // Volume II hangs each quotation's opening mark in the margin: "“The science is clear…" four columns past a
+    // page whose unnumbered paragraphs set the margin, its other lines six (vol. 2 PDF p.94). At the default
+    // inset of five the first line read as a paragraph and the rest as the quotation (severed-into-quote 152 to
+    // 78 over the report). Volume II only: Volume I keeps its published reading and paragraph ids.
+    quoteInset(4, { volumes: [2] }),
     // "3.98." paragraphs, the number at the margin and the text hanging one tab in (p.141).
     numberedParagraphs(),
     hangingIndents(),
