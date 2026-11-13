@@ -1,7 +1,7 @@
 # Golden pages: ground truth for this report, read off the PDF page image and checked by `pnpm ingest verify`.
 # Format and rules: @rtm/ingest src/golden.ts and the site's docs/quality-harness.md ("Golden pages").
 # A page marked xfail is a known pipeline defect: it stays red here, verify stays green, and the bead says why.
-# Printed page = PDF page - 20 in the body. Quotations are indented and italic in the PDF.
+# Printed page = PDF page - 20 in Volume I's body, PDF page - 10 in Volume II's. Quotations are indented and italic in the PDF.
 pages:
   # A chapter's first body page: the blue sub-headings at three sizes, numbered paragraphs, notes 1-2 restarting.
   - pdf: 37
@@ -107,3 +107,131 @@ pages:
       - paragraph: {start: "He also said that \"there will", end: "deaths are lower than influenza/pneumonia\".", notes: [233]}
       - paragraph: {start: "6.96. There was considerable criticism of", end: "case, or not very hard\".", notes: [234, 235]}
     footnotes: [228, 229, 230, 231, 232, 233, 234]
+  # Volume II: a recommendation box (black Semibold title over its text) between numbered paragraphs.
+  - pdf: 17
+    volume: 2
+    printed: 7
+    verified_by: "Claude (Opus 5.5), 2026-11-12, against the page image"
+    features: [H, F]
+    continues_previous: true
+    opens_with: "Department of Health (Northern Ireland), including"
+    blocks:
+      - paragraph: {start: "Executive Committee as an obstacle to", end: "powerful position\" throughout the pandemic.", notes: [42, 43]}
+      - paragraph: {start: "9.22. It would have been preferable", end: "a more effective cross-government response."}
+      - paragraph: {start: "9.23. Reforming the office of Chief", end: "to the wider Executive Committee."}
+      - heading: "Recommendation 1: Chief Medical Officer for Northern Ireland"
+        level: 6
+      - paragraph: {start: "The Department of Health (Northern Ireland)", end: "Department of Health (Northern Ireland)."}
+      - paragraph: {start: "9.24. In June 2024, the Northern", end: "structured scientific advice across government.", notes: [44]}
+      - paragraph: {start: "9.25. Close working relationships between scientific", end: "feature of any future emergency."}
+    footnotes: [42, 43, 44]
+    markers: [42, 43, 44]
+  # Volume II: a sub-heading set in black Proxima Nova Semibold 12pt, the face of figure captions and lead-ins
+  # ("The devolved administrations' attendance at SAGE meetings"; an h4 in the Inquiry's HTML): read as a paragraph.
+  - pdf: 22
+    volume: 2
+    printed: 12
+    verified_by: "Claude (Opus 5.5), 2026-11-12, against the page layout and the Inquiry's HTML"
+    features: [H, F]
+    xfail: reportsthatmatter-qorr
+    xfail_only: [blocks]
+    continues_previous: true
+    opens_with: "non-existent initially"
+    blocks:
+      - paragraph: {start: "9.38. The Inquiry was concerned to", end: "the sharing of relevant materials.", notes: [71]}
+      - paragraph: {start: "9.39. The SAGE mechanism, however, did", end: "and resourcing and pastoral support."}
+      - heading: "The devolved administrations' attendance at SAGE meetings"
+        level: 4
+      - paragraph: {start: "9.40. The devolved administrations were often", end: "observers, depending on their role.", notes: [72]}
+      - paragraph: {start: "9.41. Dr Jim McMenamin, Head of", continues: true}
+    footnotes: [70, 71, 72, 73, 74, 75, 76]
+  # Volume II: three quotations whose opening mark hangs in the margin, and a cross-reference that opens a line
+  # ("Appendix 1: The background to this module and the Inquiry's methodology, in this volume").
+  - pdf: 94
+    volume: 2
+    printed: 84
+    verified_by: "Claude (Opus 5.5), 2026-11-12, against the page image"
+    features: [Q, F]
+    blocks:
+      - quote: {start: "\" The science is clear that", end: "if they do catch coronavirus.\"", notes: [182]}
+      - paragraph: {start: "The decisions to close schools and", end: "ordinary childhood to a halt."}
+      - paragraph: {start: "10.90. For most children, the closure", end: "which they were already subject.", notes: [183]}
+      - paragraph: {start: "10.91. Access to play and interaction", end: "2015 to April 2022, explained:", notes: [184, 185]}
+      - quote: {start: "\" [C]hildren experienced an extraordinary period,", end: "and their ability to thrive.\"", notes: [186]}
+      - paragraph: {start: "Anne Longfield (later Baroness Longfield), Children's", end: "2015 to February 2021, observed:"}
+      - quote: {start: "\" Whilst the pandemic, and our", end: "living with risks and vulnerabilities.\"", notes: [187]}
+      - paragraph: {start: "Professor David Taylor-Robinson, expert witness on", end: "of children and young people.", notes: [188]}
+      - paragraph: {start: "10.92. In Module 8: Children and", end: "closures and lockdowns on children."}
+    footnotes: [182, 183, 184, 185, 186, 187, 188]
+  # Volume II, Appendix 3: the list of recommendations, each title a heading over its text.
+  - pdf: 325
+    volume: 2
+    printed: 315
+    verified_by: "Claude (Opus 5.5), 2026-11-12, against the page image"
+    features: [H]
+    blocks:
+      - heading: "Chapter 9: Scientific and technical advice"
+        level: 3
+      - heading: "Recommendation 1: Chief Medical Officer for Northern Ireland"
+        level: 6
+      - paragraph: {start: "The Department of Health (Northern Ireland)", end: "Department of Health (Northern Ireland)."}
+      - heading: "Recommendation 2: Attendance of the devolved administrations at SAGE meetings"
+        level: 6
+      - paragraph: {start: "The Government Office for Science (GO-Science)", end: "matter for SAGE to determine."}
+      - heading: "Recommendation 3: Register of experts"
+        level: 6
+      - paragraph: {start: "The Government Office for Science (GO-Science)", end: "through open calls for applications."}
+      - heading: "Recommendation 4: Publication of technical advice"
+        level: 6
+      - paragraph: {start: "During a whole-system civil emergency, the", end: "because legal advice privilege applies."}
+    markers: []
+  # Volume II: a page that opens mid-paragraph, and a bullet whose second line opens on a date ("4 June 2020").
+  - pdf: 115
+    volume: 2
+    printed: 105
+    verified_by: "Claude (Opus 5.5), 2026-11-12, against the page image"
+    features: [ordinary, F, list]
+    xfail: reportsthatmatter-zbrr
+    continues_previous: true
+    opens_with: "Dominic Raab MP (Secretary of State"
+    blocks:
+      - paragraph: {start: "First Secretary of State from July", end: "work in late April 2020.", notes: [54, 55, 56, 57]}
+      - paragraph: {start: "11.28. Ms MacNamara and Martin Reynolds", end: "exit from the European Union.", notes: [58, 59, 60, 61]}
+      - paragraph: {start: "11.29. Mr Johnson agreed to implement", end: "committees' roles were as follows:", notes: [62, 63]}
+      - list: {start: "Covid-S was established to drive the", end: "Patel), Secretary of State for", items: 1}
+    footnotes: [54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65]
+    markers: [54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65]
+  # Volume II, Appendix 1: a page of Table 13 (witnesses and dates of evidence), continued from the page before.
+  # Its date cells are what the oracle reads as missed headings (about 180 such findings in Appendix 1); this
+  # page measures that. Each row is its own block (house convention for a table rendered as text).
+  - pdf: 294
+    volume: 2
+    printed: 284
+    verified_by: "Claude (Opus 5.5), 2026-11-12, against the page text and image"
+    features: [table]
+    xfail: reportsthatmatter-qorr
+    xfail_only: [blocks, separate]
+    blocks:
+      - paragraph: {start: "Witness (organisation) Date of evidence", end: "Date of evidence"}
+      - paragraph: {start: "Professor Kamlesh Khunti CBE", end: "11 October 2023"}
+      - paragraph: {start: "Professor Thomas Hale (Professor", end: "11 October 2023"}
+      - paragraph: {start: "Professor Sir Mark Walport", end: "11 October 2023"}
+      - paragraph: {start: "Dr Stuart Wainwright OBE", end: "12 October 2023"}
+      - paragraph: {start: "Professor Graham Medley OBE", end: "12 October 2023"}
+      - paragraph: {start: "Professor Matthew Keeling OBE", end: "12 October 2023"}
+      - paragraph: {start: "Alex Thomas (Programme Director", end: "13 October 2023"}
+      - paragraph: {start: "Professor Chris Brightling (Clinical", end: "13 October 2023"}
+      - paragraph: {start: "Dr Rachael Evans (Clinical", end: "13 October 2023"}
+      - paragraph: {start: "Ondine Sherwood (founding member", end: "13 October 2023"}
+      - paragraph: {start: "Professor Mark Woolhouse (Professor", end: "16 October 2023"}
+      - paragraph: {start: "Professor Anthony Costello (Professor", end: "16 October 2023"}
+      - paragraph: {start: "Professor Andrew Hayward (Professor", end: "16 October 2023"}
+      - paragraph: {start: "Professor Steven Riley (Professor", end: "17 October 2023"}
+      - paragraph: {start: "Professor Neil Ferguson OBE", end: "17 October 2023"}
+      - paragraph: {start: "Professor James Rubin (Professor", end: "18 October 2023"}
+      - paragraph: {start: "Professor Lucy Yardley OBE", end: "18 October 2023"}
+      - paragraph: {start: "Professor Sir Peter Horby", end: "18 October 2023"}
+      - paragraph: {start: "Professor Catherine Noakes OBE", end: "19 October 2023"}
+      - paragraph: {start: "Professor John Edmunds OBE", end: "19 October 2023"}
+    separate: ["Professor Kamlesh Khunti CBE", "Professor Thomas Hale (Professor", "Professor Sir Mark Walport"]
+    markers: []
